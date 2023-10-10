@@ -23,7 +23,7 @@ const SheetNavbar = () => {
         </span>
       </SheetTrigger>
       <SheetContent className="overflow-y-auto  border-l-0 border-b-3 border-custom-primary">
-        <div className="flex flex-col w-full h-full justify-center gap-3 px-2 dropAndFade">
+        <div className="flex flex-col w-full h-full justify-center gap-3 px-2 dropAndFade max-sm:pt-10">
           <Image src="/PIXEL99.svg" alt="logo" width={140} height={140} />
 
           <span className="text-s tracking-wide text-slate-400">
