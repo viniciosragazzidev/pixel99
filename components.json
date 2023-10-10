@@ -1,0 +1,16 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "D:\\LifeReset\\pixel99\\tailwind.config.ts",
+    "css": "D:\\LifeReset\\pixel99\\src\\app\\globals.css",
+    "baseColor": "slate",
+    "cssVariables": true
+  },
+  "aliases": {
+    "components": "src\\app\\tools\\components",
+    "utils": "src\\app\\tools\\lib\\utils"
+  }
+}
